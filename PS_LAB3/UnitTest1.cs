@@ -4,10 +4,10 @@ using System;
 namespace PS_LAB3
 {
     [TestClass]
-    public class UnitTest1
+    public class FibonacciTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void Test1()
         {
         }
     }
